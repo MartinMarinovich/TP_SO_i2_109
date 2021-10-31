@@ -1,0 +1,2 @@
+4.a)Para actualizar mi respositorio, es necesario realizar git pull a la rama principal.
+4.b)Si, puede.
