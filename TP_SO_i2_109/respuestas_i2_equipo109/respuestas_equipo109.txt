@@ -1,2 +1,4 @@
 4.a)Para actualizar mi respositorio, es necesario realizar git pull a la rama principal.
 4.b)Si, puede.
+4.c) Si, puede.
+4.d)No lo experimentamos.
