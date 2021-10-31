@@ -2,3 +2,45 @@
 4.b)Si, puede.
 4.c) Si, puede.
 4.d)No lo experimentamos.
+ 
+4.e) Alejandro Trzasalski: 
+ 
+- git clone https://github.com/AlejandroTrzasalski/TP_SI_i2_109.git 
+- cd TP_SO_i2_109 
+- touch fork.txt 
+ 
+Martin Marinovich: 
+ 
+- Realiza fork. 
+- git clone https://github.com/AlejandroTrzasalski/TP_SI_i2_109.git 
+- ip addr (PARA SABER LA IP) 
+- echo Martin Marinovich (IP COPIADA) (date +%T)
+- git status 
+- git add -A (dentro de la carpeta) 
+ git commit -m sube los cambios 
+- git push origin master 
+ 
+  Martin Marinovich: 
+ 
+- Realiza fork. (con otra pc virtual) 
+- git clone https://github.com/AlejandroTrzasalski/TP_SI_i2_109.git 
+- ip addr (PARA SABER LA IP) 
+- echo ThirdOne (IP COPIADA) (date +%T)
+- git status 
+- git add -A (dentro de la carpeta)
+- git commit -m sube los cambios 
+- git push origin master 
+ 
+Alejandro Trzasalski: 
+ 
+- git pull https://github.com/AlejandroTrzasalski/TP_SI_i2_109.git 
+- cd TP_SO_i2_109 
+- touch NuevoDato.txt 
+ 
+Martin Marinovich: 
+ 
+- git pull https://github.com/AlejandroTrzasalski/TP_SI_i2_109.git 
+ 
+Martin Marinovich: 
+ 
+- git pull https://github.com/AlejandroTrzasalski/TP_SI_i2_109.git 
